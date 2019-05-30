@@ -42,7 +42,7 @@ public class Cat {
 		else if (lives < 0)
 			System.out.println("that's overkill yo!");
 		else
-			System.out.println("DEAD CAT :(");
+			System.out.println("DEAD CAT! HA HA HA! NO MORE SCRATCHING ME!");
 	}
 
 

@@ -27,13 +27,13 @@ System.out.println("casting spell: " + spell);
 		this.cloakOn = invisible;
 		
 		if (cloakOn)
-			System.out.println("Harry is invisible");
+			System.out.println("Arman is invisible");
 		else
-			System.out.println("Harry is visible");
+			System.out.println(" Arman is visible");
 	}
 
 	void spyOnSnape() {
-		System.out.println("Harry sees Professor Snape doing nefarious things.");
+		System.out.println("Arman sees Professor Snape doing evil things.");
 	}
 
 
