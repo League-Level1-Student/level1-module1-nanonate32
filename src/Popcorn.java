@@ -36,6 +36,7 @@ class Microwave {
 			for (int i = 0; i < cookTime * 10 + 1; i++) {
 				thingToBeCooked.applyHeat();
 			}
+			System.out.println("here");
 			thingToBeCooked.eat();
 		}
 	}
