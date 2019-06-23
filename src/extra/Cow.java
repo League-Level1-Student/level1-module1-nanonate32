@@ -5,8 +5,8 @@ public class Cow {
 	private int numberOfFriends;
 
 	Cow(String favoriteFood, int numberOfFriends) {
-      	this.favoriteFood = "cucumbers";
-      	this.numberOfFriends = 0;
+      	this.favoriteFood = favoriteFood;
+      	this.numberOfFriends = numberOfFriends;
 	}
       	
 
